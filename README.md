@@ -1,6 +1,6 @@
 # jpa01-derekflippo
 
-Deployed at: http://jpa01-dflippo.dokku-07.cs.ucsb.edu
+Deployed at: https://jpa01-dflippo.dokku-07.cs.ucsb.edu
 
 # About this repo
 
